@@ -1,0 +1,5 @@
+__pycache__/
+.idea/
+data/*
+NKDV/temp/*
+dist/split_by*

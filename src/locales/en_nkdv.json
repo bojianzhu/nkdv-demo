@@ -1,0 +1,39 @@
+{
+    "lang":"中文",
+    "header-title1" : "San Francisco Taxi Pickup",
+    "header-title2" :"Powered by PyNKDV - The fastest library in the world",
+    "footer-text":"Copyright ©2023 Hong Kong Baptist University",
+    "footer-title": "Centre for Data Science University of Macau",
+    "update-text1":"Based on data from ",
+    "update-text2":"San Francisco taxi trajectories",
+    "abouts-text1": "This system is developed based on PyNKDV, the state-of-the-art algorithm for Network Kernel Density Visualization (https://github.com/edisonchan2013928/PyNKDV).",
+    "abouts-text2": "The taxi pickup data is obtained from",
+    "abouts-text3": "San Francisco taxi trajectories",
+    "abouts-text4": ".",
+    "abouts-title": "About",
+    "layer-title": "Map Style",
+    "setting-title": "Settings",
+    "tool-tip1": "Visualizing the locations visited by",
+    "tool-tip2": "confirmed cases in the past 7 days",
+    "date-filter": "Date Filter",
+    "from":"From",
+    "to":"to",
+    "segmentLength":"Segment Length",
+    "showNetwork":"Show Road Network ",
+    "RTS" : "Real Time Computing",
+    "STKDV": "Temporal KDV",
+    "RL":"Resolution Level",
+    "IR": "Influence Range",
+    "ID": "Influence Days",
+    "Op": "Opacity",
+    "Light" : "Light",
+    "Dark": "Dark",
+    "Satellite" : "Satellite",
+    "Basic": "Basic",
+    "Open Street Map": "Open Street Map"
+
+
+
+}
+
+
